@@ -7,7 +7,8 @@
    - Step Functions also creates a model, endpoint configuration, and endpoint used for inference.
    - The SageMaker training job uses an algorithm from an ECR image.
 
-
+2. Use sg-endpoint.py script after executing the step function in console to invoke the endpoint
+   
 ![diagram](.//ML4359-architecture-diagram-1.png)
 
 
